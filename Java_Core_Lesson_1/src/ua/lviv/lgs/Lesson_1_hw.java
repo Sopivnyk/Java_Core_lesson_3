@@ -31,6 +31,8 @@ public class Lesson_1_hw {
 		System.out.println("Boolean min = " + Boolean.FALSE);
 		System.out.println();
 
+		// arrays
+		
 		int[] array1 = new int[10];
 		for (int i = 0; i < array1.length; i++) {
 
